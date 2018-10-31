@@ -1,4 +1,4 @@
-// Merge sort in C++ using recursion
+// Merge sort in C++ using recursion.
 
 #include<iostream>
 
